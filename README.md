@@ -50,4 +50,5 @@ Currently, I do not have any blog posts. Stay tuned for updates!
 
 ## Connect with Me
 
-{"linkedin":"https://www.linkedin.com/in/tamanna-walia-a7470328b"}
+## My LinkdeIn
+https://www.linkedin.com/in/tamanna-walia-a7470328b
