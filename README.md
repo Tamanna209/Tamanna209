@@ -6,6 +6,8 @@ I'm Tamanna, a passionate **Web Developer** from **Mohali, India**. I love creat
 
 I'm a **Web Developer** with a knack for building intuitive and dynamic user experiences. Currently based in **Mohali, India**, I'm always eager to learn new technologies and improve my skills.
 
+**From DOM to Deployment — The Relentless Full Stack Explorer." 💥**
+
 ## Skills & Technologies
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
