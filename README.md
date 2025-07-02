@@ -36,9 +36,6 @@ I'm a **Web Developer** with a knack for building intuitive and dynamic user exp
 <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
 
 
-## Connect with me
-
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">John Doe</a> Email: johndoe@gmail.com</p>
 
 
 
