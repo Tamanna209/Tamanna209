@@ -14,6 +14,7 @@ I'm a **Web Developer** with a knack for building intuitive and dynamic user exp
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"> 
+<img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
 <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff"> 
 <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"> 
 <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
@@ -33,6 +34,13 @@ I'm a **Web Developer** with a knack for building intuitive and dynamic user exp
 <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff"> 
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
 <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7">
+<img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff">
+<img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff">
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff">
+
 
 ## GitHub Stats
 
@@ -50,3 +58,11 @@ Currently, I do not have any blog posts. Stay tuned for updates!
 
 ## My LinkdeIn
 https://www.linkedin.com/in/tamanna-walia-a7470328b
+
+
+
+
+
+
+
+
