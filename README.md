@@ -40,6 +40,7 @@ I'm a **Web Developer** with a knack for building intuitive and dynamic user exp
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff">
+<img src="https://img.shields.io/badge/postman">
 
 
 ## GitHub Stats
