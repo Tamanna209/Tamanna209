@@ -53,7 +53,7 @@ I'm a **Web Developer** with a knack for building intuitive and dynamic user exp
 
 ## Latest Blog Posts
 
-Coming Sooooonnnnnn.. !!!!!!1
+Coming Sooooonnnnnn.. !!!!!!
 
 ## Connect with Me
 
