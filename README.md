@@ -45,7 +45,7 @@ I'm a **Web Developer** with a knack for building intuitive and dynamic user exp
 
 ## GitHub Stats
 
-🔴 **Public Repositories:** 40
+🔴 **Public Repositories:** 43
 👥 **Followers:** 1
 👤 **Following:** 1
 
