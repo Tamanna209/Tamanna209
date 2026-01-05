@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Tamanna, a passionate **Web Developer** from **Mohali, India**. I love creating web applications that are not only functional but also user-friendly. Let's connect and build something amazing together !
+I'm Tamanna, a passionate **Web Developer| MERN Stack Developer** from **Delhi, India**. I love creating web applications that are not only functional but also user-friendly. Let's connect and build something amazing together !
 
 ## About Me
 
@@ -59,6 +59,10 @@ Coming Sooooonnnnnn.. !!!!!!
 
 ## My LinkdeIn
 https://www.linkedin.com/in/tamanna-walia-a7470328b
+
+
+## My Portfolio
+https://tamannadotdev.netlify.app
 
 
 
