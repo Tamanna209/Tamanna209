@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Tamanna, a passionate **Web Developer| MERN Stack Developer** from **Delhi, India**. I love creating web applications that are not only functional but also user-friendly. Let's connect and build something amazing together !
+I'm Tamanna, a passionate **Web | Full Stack | MERN Stack Developer** from **Delhi, India**. I love creating web applications that are not only functional but also user-friendly. Let's connect and build something amazing together !
 
 ## About Me
 
@@ -44,7 +44,6 @@ I'm a **Web Developer** with a knack for building intuitive and dynamic user exp
 
 
 ## GitHub Stats
-
 🔴 **Public Repositories:**47
 👥 **Followers:** 1
 👤 **Following:** 1
@@ -53,7 +52,7 @@ I'm a **Web Developer** with a knack for building intuitive and dynamic user exp
 
 ## Latest Blog Posts
 
-Coming Sooooonnnnnn.. !!!!!!
+Coming Sooooonnnnnn....!!!!!!
 
 
 ## 🌐 Connect With Me
