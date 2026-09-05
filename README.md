@@ -4,7 +4,7 @@ I'm Tamanna, a passionate **Web | Full Stack | MERN Stack Developer** from **Del
 
 ## About Me
 
-I'm a **Web Developer** with a knack for building intuitive and dynamic user experiences. Currently based in **Mohali, India**, I'm always eager to learn new technologies and improve my skills.
+I'm a **Web Developer** with a knack for building intuitive and dynamic user experiences. Currently based in **Delhi, India**, I'm always eager to learn new technologies and improve my skills.
 
 **From DOM to Deployment — The Relentless Full Stack Explorer.**
 
